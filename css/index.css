@@ -1,0 +1,44 @@
+button
+{
+    height: 80 ;
+    width: 150;
+    font-size: 22;
+    border-radius: 7px;
+    margin-top: -10;
+     background-color:1CEE0B;
+    border: none;
+    font-family:sans-serif;
+}
+
+body
+{
+    background-color: black;
+    color: aliceblue;
+    font: helvetica;
+    font-family:sans-serif;
+}
+
+.one
+{
+    margin-left:-20;
+    margin-top: -10;
+    margin-right: -20;
+      background-color:1CEE0B;
+    color: black;
+    font-family:sans-serif;
+}
+div
+{
+    margin-top: 50;
+}
+#id1{
+    align-self: center;
+    margin-top: 50;
+    height: 250;
+    width: 400;
+    background-color:1CEE0B ;
+    color: black;
+    padding-top: 80;
+    margin-left: 450
+     
+}
